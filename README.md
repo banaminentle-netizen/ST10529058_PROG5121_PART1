@@ -21,7 +21,7 @@ A username is valid only if:
 - It is no more than 5 characters long
 
   ### Password Validation
-A password is valid only if:
+A password is valid only if the following:
 - It is at least 8 characters long
 - It contains at least 1 capital letter
 - It contains at least 1 number
